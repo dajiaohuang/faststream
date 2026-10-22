@@ -105,6 +105,7 @@ docs = [
     "pillow",                                           # required for mkdocs-glightbox
     "cairosvg",                                         # required for mkdocs-glightbox
     "httpx==0.28.1",                                    # using in CI
+    "pymdown-extensions==10.21.3",
 ]
 
 lint = [
